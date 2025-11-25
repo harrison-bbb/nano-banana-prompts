@@ -224,7 +224,9 @@ Nano Banana Image: <img width="1024" height="572" alt="image" src="https://githu
 Look at the attached product images. A first-person POV shot of a hand holding [THIS EXACT PRODUCT] up against a blurred city street background during the day. The sunlight hits the product, highlighting its label and texture. The background shows [INSERT BACKGROUND - e.g., yellow taxis and skyscrapers]. Realistic skin texture on the hand.
 ```
 
-**Example Result:** Someone holding your product up against a blurry NYC street background.
+Original: <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/568bcf1d-c3c8-4907-9636-37daaab3e142" />
+
+Nano Banana Image: <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/404d346f-c362-4418-a471-848a014ce3c9" />
 
 ---
 
@@ -235,7 +237,11 @@ Look at the attached product images. A first-person POV shot of a hand holding [
 Look at the attached product images. A cinematic gym photo. In the foreground, sitting on a rubber gym floor, is [THIS EXACT PRODUCT]. In the background, out of focus, [INSERT PERSON DESCRIPTION - e.g., the attached person] is preparing for a workout. The lighting is moody and industrial. Focus is strictly on the product.
 ```
 
-**Example Result:** Your water bottle or supplement sitting on the gym floor with an athlete in the background.
+Original 1: <img width="1200" height="2132" alt="image" src="https://github.com/user-attachments/assets/36aaa205-d1c0-4aac-b014-be75df8e66fd" />
+
+Original 2: <img width="3840" height="1920" alt="image" src="https://github.com/user-attachments/assets/caf0d132-6c55-4618-9b7f-5d06b76059a0" />
+
+Nano Banana Image: <img width="1024" height="506" alt="image" src="https://github.com/user-attachments/assets/b446b332-a5b1-42ef-bc88-4431d82793d1" />
 
 ---
 
