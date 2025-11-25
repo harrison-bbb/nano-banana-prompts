@@ -160,7 +160,7 @@ An intense, sweaty, close-up portrait of [INSERT PERSON DESCRIPTION - e.g., the 
 
 Original: <img width="232" height="341" alt="image" src="https://github.com/user-attachments/assets/b5c71b5d-2ca6-4540-aa85-8ace0b15c5f8" />
 
-Nano Banana Image: 
+Nano Banana Image: <img width="696" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f655a9f-8009-4d7c-8c09-ab0ccaede85b" />
 
 ---
 
@@ -171,7 +171,9 @@ Nano Banana Image:
 A chaotic, high-energy photograph of [INSERT PERSON DESCRIPTION - e.g., the attached person] walking a red carpet at night. They are surrounded by a flurry of bright camera flashes, creating intense bursts of white light and long shadows. The background is a blur of photographers. Raw, documentary fashion photography style.
 ```
 
-**Example Result:** A celebrity-style figure blinded by camera flashes on a red carpet.
+Original: <img width="354" height="360" alt="image" src="https://github.com/user-attachments/assets/9092c3c0-c1e3-4fbc-975a-6b879d8e0f88" />
+
+Nano Banana Image: <img width="1008" height="1024" alt="image" src="https://github.com/user-attachments/assets/e28db06f-11ba-4011-b808-26af90ddcdd1" />
 
 ---
 
@@ -182,7 +184,7 @@ A chaotic, high-energy photograph of [INSERT PERSON DESCRIPTION - e.g., the atta
 A charming, miniature isometric 3D render of a bustling modern tech office cutaway. The style is playful, similar to Pixar animation, with soft, clay-like textures. Tiny stylized 3D characters are [INSERT ACTIONS - e.g., coding at standing desks and drinking coffee]. The color palette is cheerful and bright. Clean white background.
 ```
 
-**Example Result:** A cute 3D "dollhouse" view of an office with tiny cartoon people working.
+Nano Banana Image: <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f056982-4143-4218-8e19-1ebc5f62c9fb" />
 
 ---
 
@@ -193,7 +195,7 @@ A charming, miniature isometric 3D render of a bustling modern tech office cutaw
 An intricately detailed illustration of a landscape created entirely from layered paper cutouts. The scene depicts [INSERT SCENE - e.g., a mountain range with a rising sun]. Different layers of textured colored paper create depth and shadows. The colors are a warm, muted palette of earth tones. The lighting looks like a real photograph of a paper diorama.
 ```
 
-**Example Result:** A beautiful landscape that looks like it was made by hand out of craft paper.
+Nano Banana Image: <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/43a3786a-4e36-4783-892e-9c13a72ef771" />
 
 ---
 
@@ -207,7 +209,11 @@ An intricately detailed illustration of a landscape created entirely from layere
 Look at the attached product images. Generate a realistic photo of a wooden table in a busy, sunlit coffee shop. Placed naturally on the table is [THIS EXACT PRODUCT]. In the slightly blurred background, a [INSERT PERSON DESCRIPTION - e.g., the attached person] is working on a laptop and drinking coffee. The focus is sharp on the product, with a creamy bokeh background.
 ```
 
-**Example Result:** Your software interface or product on a table, with a blurry "digital nomad" working behind it.
+Originals 1: <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/013d4166-e76d-4e92-8bb1-fb4ebe738bab" />
+
+Original 2: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59d94cc8-8b86-4380-800f-65ad3f27d8fa" />
+
+Nano Banana Image: <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8eeb0c4b-11c3-4aed-b040-5466555f3930" />
 
 ---
 
