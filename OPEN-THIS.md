@@ -92,8 +92,7 @@ Look at the attached product images. Create a first-person POV photograph lookin
 
 Original: <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/f83e39d5-c187-42c7-b2b2-099989953d7a" />
 
-Nano Banana Image: 
-
+Nano Banana Image: <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa8ef77c-906e-4e23-b238-bf650277cc4b" />
 
 ---
 
@@ -104,7 +103,9 @@ Nano Banana Image:
 Look at the attached product images. Create an extreme macro photograph showing the intricate texture of [THIS EXACT PRODUCT'S SURFACE]. The focus is razor-sharp across the frame, revealing microscopic details, fibers, or brushstrokes. Even, flat studio lighting to emphasize pure texture without harsh shadows. 8k resolution, scientific level of detail.
 ```
 
-**Example Result:** An extreme close-up of the stitching on a leather wallet or the metal grain on a watch.
+Original: <img width="4000" height="4000" alt="image" src="https://github.com/user-attachments/assets/70ab4952-397a-4c2f-892d-6fcea06ac527" />
+
+Nano Banana Image: <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/de0ef8bb-49e3-4dfb-907e-8325680f2954" />
 
 ---
 
@@ -115,10 +116,12 @@ Look at the attached product images. Create an extreme macro photograph showing 
 **Best for:** Posts about leadership, AI, or future trends
 
 ```
-A candid, powerful photograph of [INSERT PERSON DESCRIPTION - e.g., a middle-aged woman in a black turtleneck] mid-gesture while giving a speech on a large, dark stage. They are illuminated by a single, dramatic rim spotlight from behind. A large screen behind them displays hazy, futuristic blue data graphics. Captured with a telephoto 200mm lens from the audience perspective. Grainy film look.
+A candid, powerful photograph of [INSERT PERSON DESCRIPTION - e.g., the attached person] mid-gesture while giving a speech on a large, dark stage. They are illuminated by a single, dramatic rim spotlight from behind. A large screen behind them displays hazy, futuristic blue data graphics. Captured with a telephoto 200mm lens from the audience perspective. Grainy film look.
 ```
 
-**Example Result:** A CEO-looking figure on a TED-talk style stage, looking visionary.
+Original: <img width="576" height="864" alt="image" src="https://github.com/user-attachments/assets/41ac9fe5-a23b-48ba-bf02-a84dbb223088" />
+
+Nano Banana Image: <img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4e4bcfb-9e07-4af4-a895-3d16b3840104" />
 
 ---
 
@@ -126,10 +129,12 @@ A candid, powerful photograph of [INSERT PERSON DESCRIPTION - e.g., a middle-age
 **Best for:** Lifestyle content, freedom, and travel posts
 
 ```
-A lifestyle photograph of [INSERT PERSON DESCRIPTION - e.g., a man in a linen shirt], viewed from behind or profile, looking out over [INSERT LOCATION - e.g., the Amalfi Coast at sunset]. The lighting is warm, golden hour light creating a lens flare. The vibe is expensive, relaxed, and aspirational. Shot on film, natural colors.
+A lifestyle photograph of [INSERT PERSON DESCRIPTION - e.g., the attached person], viewed from behind or profile, looking out over [INSERT LOCATION - e.g., the Amalfi Coast at sunset]. The lighting is warm, golden hour light creating a lens flare. The vibe is expensive, relaxed, and aspirational. Shot on film, natural colors.
 ```
 
-**Example Result:** A stylish person looking out over a beautiful sunset balcony in Italy.
+Original: <img width="576" height="864" alt="image" src="https://github.com/user-attachments/assets/7b1d2c3d-d07b-4a76-92c8-ead90ddd6981" />
+
+Nano Banana Image: <img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/1631547d-51dd-463f-95cc-a3ea2885d1e5" />
 
 ---
 
@@ -137,10 +142,12 @@ A lifestyle photograph of [INSERT PERSON DESCRIPTION - e.g., a man in a linen sh
 **Best for:** Generic corporate avatars or "meet the team" placeholders
 
 ```
-A professional studio headshot of [INSERT PERSON DESCRIPTION - e.g., a smiling creative director with glasses]. They are looking directly at the camera. The lighting is flattering "Rembrandt" style studio lighting. The background is a gently blurred, textured hand-painted grey canvas backdrop. Shot on a medium format camera, extremely high detail on skin texture.
+A professional studio headshot of [INSERT PERSON DESCRIPTION - e.g., the attached person]. They are looking directly at the camera. The lighting is flattering "Rembrandt" style studio lighting. The background is a gently blurred, textured hand-painted grey canvas backdrop. Shot on a medium format camera, extremely high detail on skin texture.
 ```
 
-**Example Result:** A hyper-realistic, trustworthy LinkedIn-style headshot.
+Original: <img width="1581" height="1054" alt="image" src="https://github.com/user-attachments/assets/3f57ab71-46f8-46a6-b04f-9d904d4079d1" />
+
+Nano Banana Image: <img width="1024" height="687" alt="image" src="https://github.com/user-attachments/assets/1d467d84-3748-41d7-bb4c-4f957abbc0b2" />
 
 ---
 
@@ -148,10 +155,12 @@ A professional studio headshot of [INSERT PERSON DESCRIPTION - e.g., a smiling c
 **Best for:** Motivation, discipline, and hard work posts
 
 ```
-An intense, sweaty, close-up portrait of [INSERT PERSON DESCRIPTION - e.g., a boxer with braided hair] catching their breath in a dimly lit, industrial gym. The lighting is cinematic and moody, mixing deep shadows with contrasting [INSERT COLORS - e.g., Teal and Orange] side lighting. High contrast, gritty texture.
+An intense, sweaty, close-up portrait of [INSERT PERSON DESCRIPTION - e.g., the attached person] catching their breath in a dimly lit, industrial gym. The lighting is cinematic and moody, mixing deep shadows with contrasting [INSERT COLORS - e.g., Teal and Orange] side lighting. High contrast, gritty texture.
 ```
 
-**Example Result:** A sweaty, intense athlete looking focused in a dark gym.
+Original: <img width="232" height="341" alt="image" src="https://github.com/user-attachments/assets/b5c71b5d-2ca6-4540-aa85-8ace0b15c5f8" />
+
+Nano Banana Image: 
 
 ---
 
@@ -159,7 +168,7 @@ An intense, sweaty, close-up portrait of [INSERT PERSON DESCRIPTION - e.g., a bo
 **Best for:** Celebration, fame, or "Big News" posts
 
 ```
-A chaotic, high-energy photograph of [INSERT PERSON DESCRIPTION - e.g., a woman in a silver gala dress] walking a red carpet at night. They are surrounded by a flurry of bright camera flashes, creating intense bursts of white light and long shadows. The background is a blur of photographers. Raw, documentary fashion photography style.
+A chaotic, high-energy photograph of [INSERT PERSON DESCRIPTION - e.g., the attached person] walking a red carpet at night. They are surrounded by a flurry of bright camera flashes, creating intense bursts of white light and long shadows. The background is a blur of photographers. Raw, documentary fashion photography style.
 ```
 
 **Example Result:** A celebrity-style figure blinded by camera flashes on a red carpet.
@@ -195,7 +204,7 @@ An intricately detailed illustration of a landscape created entirely from layere
 **Best for:** Software, laptops, or business tools
 
 ```
-Look at the attached product images. Generate a realistic photo of a wooden table in a busy, sunlit coffee shop. Placed naturally on the table is [THIS EXACT PRODUCT]. In the slightly blurred background, a [INSERT PERSON DESCRIPTION - e.g., young creative professional] is working on a laptop and drinking coffee. The focus is sharp on the product, with a creamy bokeh background.
+Look at the attached product images. Generate a realistic photo of a wooden table in a busy, sunlit coffee shop. Placed naturally on the table is [THIS EXACT PRODUCT]. In the slightly blurred background, a [INSERT PERSON DESCRIPTION - e.g., the attached person] is working on a laptop and drinking coffee. The focus is sharp on the product, with a creamy bokeh background.
 ```
 
 **Example Result:** Your software interface or product on a table, with a blurry "digital nomad" working behind it.
@@ -217,7 +226,7 @@ Look at the attached product images. A first-person POV shot of a hand holding [
 **Best for:** Supplements, gym gear, or health apps
 
 ```
-Look at the attached product images. A cinematic gym photo. In the foreground, sitting on a rubber gym floor, is [THIS EXACT PRODUCT]. In the background, out of focus, [INSERT PERSON DESCRIPTION - e.g., an athlete tying their shoes] is preparing for a workout. The lighting is moody and industrial. Focus is strictly on the product.
+Look at the attached product images. A cinematic gym photo. In the foreground, sitting on a rubber gym floor, is [THIS EXACT PRODUCT]. In the background, out of focus, [INSERT PERSON DESCRIPTION - e.g., the attached person] is preparing for a workout. The lighting is moody and industrial. Focus is strictly on the product.
 ```
 
 **Example Result:** Your water bottle or supplement sitting on the gym floor with an athlete in the background.
@@ -228,7 +237,7 @@ Look at the attached product images. A cinematic gym photo. In the foreground, s
 **Best for:** Home decor, candles, or books
 
 ```
-Look at the attached product images. An interior design photograph of a cozy living room. [THIS EXACT PRODUCT] is placed on a coffee table in the center. In the background, [INSERT PERSON DESCRIPTION - e.g., a person reading a book on a beige sofa] is relaxing. Soft morning light streams through sheer curtains. Scandinavian design style.
+Look at the attached product images. An interior design photograph of a cozy living room. [THIS EXACT PRODUCT] is placed on a coffee table in the center. In the background, [INSERT PERSON DESCRIPTION - e.g., the attached person] is relaxing. Soft morning light streams through sheer curtains. Scandinavian design style.
 ```
 
 **Example Result:** Your product on a coffee table in a beautiful, sunny living room with someone relaxing behind it.
@@ -239,7 +248,7 @@ Look at the attached product images. An interior design photograph of a cozy liv
 **Best for:** Backpacks, hats, or travel gear
 
 ```
-Look at the attached product images. A medium-shot of [INSERT PERSON DESCRIPTION - e.g., a cool teenager in a hoodie] walking down a subway corridor. They are wearing/carrying [THIS EXACT PRODUCT]. The lighting is fluorescent and slightly green-tinted for a cinematic "Matrix" vibe. The product is clearly visible and naturally integrated into their outfit.
+Look at the attached product images. A medium-shot of [INSERT PERSON DESCRIPTION - e.g., the attached person] walking down a subway corridor. They are wearing/carrying [THIS EXACT PRODUCT]. The lighting is fluorescent and slightly green-tinted for a cinematic "Matrix" vibe. The product is clearly visible and naturally integrated into their outfit.
 ```
 
 **Example Result:** A cool model walking in a subway station wearing/holding your product.
@@ -250,7 +259,7 @@ Look at the attached product images. A medium-shot of [INSERT PERSON DESCRIPTION
 **Best for:** Breakfast foods, appliances, or vitamins
 
 ```
-Look at the attached product images. A bright, airy kitchen island scene. [THIS EXACT PRODUCT] sits on the marble counter next to fresh oranges and a glass of water. In the background, slightly out of focus, [INSERT PERSON DESCRIPTION - e.g., a mother making breakfast] is smiling. High-key lighting, very bright and clean white aesthetic.
+Look at the attached product images. A bright, airy kitchen island scene. [THIS EXACT PRODUCT] sits on the marble counter next to fresh oranges and a glass of water. In the background, slightly out of focus, [INSERT PERSON DESCRIPTION - e.g., the attached person] is smiling. High-key lighting, very bright and clean white aesthetic.
 ```
 
 **Example Result:** Your food product on a clean marble kitchen counter with a family vibe in the background.
