@@ -252,7 +252,11 @@ Nano Banana Image: <img width="1024" height="506" alt="image" src="https://githu
 Look at the attached product images. An interior design photograph of a cozy living room. [THIS EXACT PRODUCT] is placed on a coffee table in the center. In the background, [INSERT PERSON DESCRIPTION - e.g., the attached person] is relaxing. Soft morning light streams through sheer curtains. Scandinavian design style.
 ```
 
-**Example Result:** Your product on a coffee table in a beautiful, sunny living room with someone relaxing behind it.
+Original 1: <img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/d5d62a45-8048-4fb4-b774-247caf56b733" />
+
+Original 2: <img width="267" height="400" alt="image" src="https://github.com/user-attachments/assets/72e9b060-bc6f-4093-b870-23148b46e618" />
+
+Nano Banana Image: <img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/2dfb7e96-2d91-4297-88cb-6b7ed5908eab" />
 
 ---
 
@@ -263,7 +267,11 @@ Look at the attached product images. An interior design photograph of a cozy liv
 Look at the attached product images. A medium-shot of [INSERT PERSON DESCRIPTION - e.g., the attached person] walking down a subway corridor. They are wearing/carrying [THIS EXACT PRODUCT]. The lighting is fluorescent and slightly green-tinted for a cinematic "Matrix" vibe. The product is clearly visible and naturally integrated into their outfit.
 ```
 
-**Example Result:** A cool model walking in a subway station wearing/holding your product.
+Original 1: <img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/e906b1c1-b2e6-4a0a-bbf1-6c06e10d02e8" />
+
+Original 2: <img width="3840" height="1920" alt="image" src="https://github.com/user-attachments/assets/e51adbd1-6b16-4ccf-9b1d-ea400ca12dc2" />
+
+Nano Banana Image: <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a4250572-fa4a-48f7-975a-2a695aea65a7" />
 
 ---
 
@@ -274,7 +282,11 @@ Look at the attached product images. A medium-shot of [INSERT PERSON DESCRIPTION
 Look at the attached product images. A bright, airy kitchen island scene. [THIS EXACT PRODUCT] sits on the marble counter next to fresh oranges and a glass of water. In the background, slightly out of focus, [INSERT PERSON DESCRIPTION - e.g., the attached person] is smiling. High-key lighting, very bright and clean white aesthetic.
 ```
 
-**Example Result:** Your food product on a clean marble kitchen counter with a family vibe in the background.
+Original Image 1: <img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/5ce7dbcf-46de-4cb1-88f3-43df3fdffc1e" />
+
+Original Image 2: <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/db9735f3-a990-4530-a5a5-e50bb5279e90" />
+
+Nano Banana Image: <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/357d1d76-52a3-4259-8493-888da2ba963b" />
 
 ---
 
@@ -290,9 +302,3 @@ Look at the attached product images. A bright, airy kitchen island scene. [THIS 
 ## About This Resource
 
 This prompt library was created to help marketers, designers, and business owners generate professional-quality marketing assets without expensive photoshoots or design tools.
-
-**Questions or suggestions?** Feel free to open an issue or contribute your own prompts!
-
----
-
-*Made with ❤️ for the AI creative community*
