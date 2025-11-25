@@ -51,8 +51,9 @@ Nano Banana Image: <img width="1024" height="765" alt="image" src="https://githu
 ```
 Look at the attached product images. Place [THIS EXACT PRODUCT] in a natural setting, nestled among vibrant green moss, smooth river stones, and flowing, clear water. Sunlight filters through a forest canopy above, creating dappled light and shadow on the product. The style is organic, fresh, and earthy. Shallow depth of field, shot on a Canon 85mm lens. Water droplets are visible on the product surface.
 ```
+Original: <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/734256e2-f0d3-425d-821a-4a76c57436bc" />
 
-**Example Result:** A glass serum bottle sitting on a mossy rock in a stream, looking fresh and organic.
+Nano Banana Image: <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/660d14f3-eaeb-437c-9aea-e003a060aecf" />
 
 ---
 
@@ -63,7 +64,9 @@ Look at the attached product images. Place [THIS EXACT PRODUCT] in a natural set
 Look at the attached product images. Place [THIS EXACT PRODUCT] on a wet asphalt city street at night. The product is illuminated entirely by the reflection of nearby neon signs in colors of [INSERT NEON COLORS - e.g., Electric Purple and Cyan Blue]. Rain has just fallen; puddles reflect the lights. Cyberpunk aesthetic, gritty texture, shallow depth of field, shot with a 35mm prime lens at f/1.4.
 ```
 
-**Example Result:** A sneaker sitting on a wet street at night, glowing with purple neon reflections.
+Original: <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/c503daf6-6733-4ab0-8b0c-16ffda018ebf" />
+
+Nano Banana Image: <img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/2e55285c-84e2-4be4-a66d-7c20ce3e4e7f" />
 
 ---
 
@@ -74,7 +77,9 @@ Look at the attached product images. Place [THIS EXACT PRODUCT] on a wet asphalt
 Look at the attached product images. Create a perfectly organized, top-down "knolling" photograph (flat lay) on a concrete surface. The central item is [THIS EXACT PRODUCT]. Surrounding it, arranged in neat grids, are [INSERT ACCESSORIES LIST - e.g., a black Moleskine notebook, a ceramic coffee cup, and a metal pen]. The lighting is even, bright daylight from a large window. Everything is in sharp focus.
 ```
 
-**Example Result:** Your product in the center of a perfectly organized desk grid with coffee and a notebook.
+Original: <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd5c4058-3056-4774-836e-d70d33b4efdd" />
+
+Nano Banana Image: <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2ba07d0b-41ac-4e94-99e4-8c0a59c9854e" />
 
 ---
 
@@ -85,7 +90,10 @@ Look at the attached product images. Create a perfectly organized, top-down "kno
 Look at the attached product images. Create a first-person POV photograph looking down at a pair of hands carefully opening a premium packaging box lying on a wooden table. Inside the box, nestled in custom foam, is [THIS EXACT PRODUCT]. The lighting is soft and luxurious, highlighting the material of the product. High detail on textures.
 ```
 
-**Example Result:** A view from your eyes looking down at your hands revealing the product inside a box.
+Original: <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/f83e39d5-c187-42c7-b2b2-099989953d7a" />
+
+Nano Banana Image: 
+
 
 ---
 
