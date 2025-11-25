@@ -28,8 +28,7 @@ Look at the attached product images. Generate a high-speed commercial photograph
 ```
 Original: <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/734256e2-f0d3-425d-821a-4a76c57436bc" />
 
-Nano Banana Image: <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1e9e6daa-89cb-417e-bd82-7b03bfa0dcad" />
-
+Nano Banana Image: <img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/d616c529-7a04-413f-9d1f-9f89417c0b30" />
 
 ---
 
@@ -40,7 +39,9 @@ Nano Banana Image: <img width="1000" height="1000" alt="image" src="https://gith
 Look at the attached product images. Create a minimalist editorial photograph of [THIS EXACT PRODUCT] suspended mid-air, floating. The product casts a soft, diffused shadow on the surface below it to create depth. The background is a seamless, matte [INSERT PASTEL COLOR - e.g., Soft Mint Green] studio wall. The lighting is ultra-soft, diffused top-down "softbox" lighting. Shot on a 50mm lens at f/2.8. Super clean, Apple-style aesthetic.
 ```
 
-**Example Result:** Wireless earbuds floating weightlessly against a pastel pink background with soft shadows.
+Original: <img width="4000" height="4000" alt="image" src="https://github.com/user-attachments/assets/86b9c152-d903-4005-8487-200988f94995" />
+
+Nano Banana Image: <img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/ebb264d5-40b2-480f-a16b-0bc1aa0b1653" />
 
 ---
 
