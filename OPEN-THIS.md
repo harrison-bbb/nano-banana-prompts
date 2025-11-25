@@ -26,8 +26,10 @@ For any prompt involving a **specific product**:
 ```
 Look at the attached product images. Generate a high-speed commercial photograph of [THIS EXACT PRODUCT] splashing violently into clear water. Water droplets and crowns are frozen in mid-air around the product. The lighting is dramatic and crisp studio strobe lighting from the side to emphasize the texture of the product. The background is a smooth, gradient [INSERT COLOR - e.g., Deep Ocean Blue]. 8k resolution, highly detailed advertising photography.
 ```
+Original: <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/734256e2-f0d3-425d-821a-4a76c57436bc" />
 
-**Example Result:** A soda can hitting water with crystal clear droplets flying everywhere; the logo is perfectly sharp.
+Nano Banana Image: <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1e9e6daa-89cb-417e-bd82-7b03bfa0dcad" />
+
 
 ---
 
